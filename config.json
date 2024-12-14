@@ -35,17 +35,17 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545"
+    "61556610624408"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071880593545"
+      "61556610624408"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓",
-  "prefix": "/",
+  "nickNameBot": "𝐀𝐀𝐑𝐚𝐝",
+  "prefix": "©",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
@@ -53,7 +53,7 @@
   "authorName": "aminul sordar",
   "facebook2": "https://www.facebook.com/100071880593545",
   "facebook": "https://www.facebook.com/100071880593545",
-  "email": "aminulsordar04@gmail.com",
+  "email": "mdmirazmdd@gmail",
   "replit": "Off",
   "github": "https://github.com/Aminulsordar",
   "insta": "no",
