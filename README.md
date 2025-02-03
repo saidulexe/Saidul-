@@ -18,12 +18,12 @@
 
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Aminulsordar"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Aminulsordar Aminulsordar&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/MrS41F"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MrS41F SaifulIslam&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Aminulsordar /count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/MrS41F /count.svg" alt="Visitors">
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
