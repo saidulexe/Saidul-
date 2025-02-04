@@ -17,19 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100081317798618",
-    "100078639797619"
+    "61555887493470",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "SAIF-BOT",
+  "OWNER": "saidul bot",
   "AGE": "20+",
   "GENDER": "MALE",
-  "nickNameBot": "SAIF-𝐁𝐎𝐓",
-  "FACEBOOK": "https://www.facebook.com/saif9xm",
+  "nickNameBot": "saidul",
+  "FACEBOOK": "https://www.facebook.com/share/15gBLMFUz8/",
   "prefix": ".",
   "database": {
     "type": "sqlite",
