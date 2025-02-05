@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "𝐤𝐮𝐫𝐮𝐦𝐢 ⋆° 𐙚",
   "FACEBOOK": "https://www.facebook.com/saidulexc123",
-  "prefix": ".",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
