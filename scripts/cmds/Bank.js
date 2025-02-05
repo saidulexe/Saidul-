@@ -13,7 +13,7 @@ module.exports = {
     category: "💰 Economy",
     countDown: 15,
     role: 0,
-    author: "Loufi | Aminul | Samuel\n\nModified: Shikaki"
+    author: "Loufi | Saidul | Samuel\n\nModified: Shikaki"
   },
   onStart: async function ({ args, message, event, api, usersData }) {
     const { getPrefix } = global.utils;
